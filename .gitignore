@@ -1,0 +1,17 @@
+# Ignore dataset (too large for GitHub)
+creditcard.csv
+
+# Ignore compiled python files
+__pycache__/
+*.pyc
+
+# Ignore the trained model (optional, but good practice to generate it fresh)
+*.pkl
+
+# Ignore virtual environments
+venv/
+env/
+.env
+
+# Ignore system files
+.DS_Store
